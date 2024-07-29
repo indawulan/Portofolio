@@ -3,7 +3,8 @@
 # Data Sets
 - [Covid Deaths](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidDeaths.xlsx)
 - [Covid Vaccination](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidVaccinations.xlsx)
-  
+
+# Explore The Data
 1. **Data Exploration:**
    - Explore all records from `CovidDeaths` and `CovidVaccinations` tables.
    
